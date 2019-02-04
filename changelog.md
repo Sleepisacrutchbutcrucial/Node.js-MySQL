@@ -7,3 +7,6 @@
     a. Activity
     b. Database Model
     c. Map Specification to Activity
+
+## Version 2 
+1. added mySql, inquirer, readme, gitignore.
