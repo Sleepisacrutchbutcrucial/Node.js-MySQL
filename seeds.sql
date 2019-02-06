@@ -8,40 +8,40 @@ VALUES ('clothing', 60000);
 
 INSERT INTO product (product_name, department_id, price,
 stock_quantity, product_sales)
-VALUES ('Xbox one X', 7, 500, 25, 1000);
+VALUES ('Xbox one X', 1, 500, 25, 0);
 
 INSERT INTO product (product_name, department_id, price,
 stock_quantity, product_sales)
-VALUES ('Xbox one S', 7, 250, 25, 1000);
+VALUES ('Xbox one S', 1, 250, 25, 0);
 
 INSERT INTO product (product_name, department_id, price,
 stock_quantity, product_sales)
-VALUES ('Playstation 4 Slim', 7, 300, 25, 1000);
+VALUES ('Playstation 4 Slim', 1, 300, 25, 0);
 
 INSERT INTO product (product_name, department_id, price,
 stock_quantity, product_sales)
-VALUES ('Playstation 4 Pro', 7, 500, 25, 1000);
+VALUES ('Playstation 4 Pro', 1, 500, 25, 0);
 
 INSERT INTO product (product_name, department_id, price,
 stock_quantity, product_sales)
-VALUES ('Nintendo Switch', 7, 350, 25, 1000);
+VALUES ('Nintendo Switch', 1, 350, 25, 0);
 
 INSERT INTO product (product_name, department_id, price,
 stock_quantity, product_sales)
-VALUES ('Hats', 5, 25, 25, 200);
+VALUES ('Hats', 2, 25, 25, 0);
 
 INSERT INTO product (product_name, department_id, price,
 stock_quantity, product_sales)
-VALUES ('sweatshirts', 5, 25, 25, 400);
+VALUES ('sweatshirts', 2, 25, 25, 0);
 
 INSERT INTO product (product_name, department_id, price,
 stock_quantity, product_sales)
-VALUES ('Levis Jeans', 5, 35, 25, 500);
+VALUES ('Levis Jeans', 2, 35, 25, 0);
 
 INSERT INTO product (product_name, department_id, price,
 stock_quantity, product_sales)
-VALUES ('Jackets', 5, 65, 25, 1000);
+VALUES ('Jackets', 2, 65, 25, 0);
 
 INSERT INTO product (product_name, department_id, price,
 stock_quantity, product_sales)
-VALUES ('Running Shoes', 5, 110, 25, 660);
+VALUES ('Running Shoes', 2, 110, 25, 0);
